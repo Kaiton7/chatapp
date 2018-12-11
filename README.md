@@ -1,5 +1,11 @@
 # MyApp
 
+このアプリはLineに代わるwebアプリを作成しょうかと思いテストしているものです。 
+主に以下のサイトを参考にしています。  
+https://qiita.com/Yamamoto0525/items/a76ea4b3924eeb82b0f9
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
 
 ## Development server
